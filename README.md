@@ -28,4 +28,7 @@ Remember learning from their peers is learning; and a critical skill in today’
 D. All questions should fit on a single 8x11 or A4 sheet.
 
 We suggest, with a bit of irony, that the presentation of the challenge be on paper. 
-The computer provides too much temptation to copy &amp; paste questions into search engines and provides an opportunity for frictionless peer to peer “collaboration”. 
+A single piece of paper posted on a bulletin board or other public space. 
+The computer provides too much temptation to copy &amp; paste questions into search engines.
+The in-person group analysis provides an opportunity for both discussion and peer collaboration. 
+Reward predictors create an energetic, pleasant feeling that motivates behavior for reward pursuit.
