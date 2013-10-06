@@ -1,0 +1,24 @@
+<html>
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <style type="text/css" >
+      <![CDATA[
+
+       rect.one { stroke: #000000; 
+                  fill: #009900; 
+                }
+       rect.two { stroke: #000000; 
+                  fill: #FFFFFF; 
+                }
+       rect.three { stroke: #000000; 
+                  fill: #FF6600; 
+                }
+      ]]>
+    </style>
+
+    <rect class="one" x="0" y="0" width="135" height="300" />
+    <rect class="two" x="135" y="0" width="135" height="300" />
+    <rect class="three" x="270" y="0" width="135" height="300" />
+</svg>
+</html>
