@@ -1,5 +1,4 @@
-bboard : Challenge students through bulletin board posts using code.
-------
+### bboard : Challenge students through bulletin board posts using code.
 
 Computer code bulletin board posts to inspire self-motivated learning in primary and secondary school. 
 
