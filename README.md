@@ -9,7 +9,7 @@ Computer code bulletin board posts to inspire self-motivated learning in primary
 __Q.__ What color is represented by: #00FF00
 
 > This question requires knowledge of HEX representation of the RGB color coding scheme and the ability to seek out a web page or program which will display the HEX code as a graphic color swatch. 
-> Remember that all of these concepts were at one point new to you. 
+> Remember that all of these concepts were, at one point, new to you. 
 > 
 > The posts are meant to be straightforward and intuitive for those who put in the work. 
 > The work in this context can be as simple as taking the time to type the program into an editor. 
