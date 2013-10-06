@@ -28,4 +28,4 @@ Remember learning from their peers is learning; and a critical skill in today’
 D. All questions should fit on a single 8x11 or A4 sheet.
 
 We suggest, with a bit of irony, that the presentation of the challenge be on paper. 
-The computer provides too much temptation to copy & paste questions into search engines and provides an opportunity for frictionless peer to peer “collaboration”. 
+The computer provides too much temptation to copy &amp; paste questions into search engines and provides an opportunity for frictionless peer to peer “collaboration”. 
