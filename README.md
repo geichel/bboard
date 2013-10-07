@@ -1,6 +1,6 @@
-### Challenge students through bulletin board posts using code.
-
-Computer code bulletin board posts to inspire self-motivated learning in primary and secondary school. 
+##### Computer coding quizzes to inspire self-motivated learning in primary and secondary school.
+Post some code on your school's bulletin board and be amazed. 
+Here you will find a repository of single sheet code examples, categorized by school subject, which will entice your students to explore.
 
 > These posts are meant to be _hard_ for those who are not familiar with code, computer science, or computational thinking. 
 > They are meant for self-directed or peer based learning. An example:
